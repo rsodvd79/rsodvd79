@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rsodvd79
-- 👀 I’m interested in programming
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning all
 - 💞️ My web site www.drhack.it
